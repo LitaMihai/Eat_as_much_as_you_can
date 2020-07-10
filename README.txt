@@ -10,3 +10,5 @@ So:
 -The rest of the balls gives you points
 -Have fun and don't die!
 Ps:The joke at the end is a pamphlet!
+
+There are a few bugs but this game is made for learning =) 
